@@ -29,8 +29,8 @@ discount_rate = 0.99
 
 exploration_rate = 1
 max_exploration_rate = 1
-min_exploration_rate = 0.01
-exploration_decay_rate = 0.01
+min_exploration_rate = 0.001
+exploration_decay_rate = 0.001
 # %%
 # Watch our agent play Frozen Lake by playing the best action 
 # from each state according to the Q-table
